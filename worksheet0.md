@@ -37,9 +37,9 @@ Skim this article https://www.markdownguide.org/basic-syntax/ to familiarize you
 
 4. What tools and workflow are you going to use to do your projects and assignments for this class?
 
-    ###Tools: github, github desktop, intellij, markdown, chatGPT, etc...
+    Tools: ***github, github desktop, intellij, markdown, chatGPT, etc...***
 
-    workflow: the standard workflow described above.
+    workflow: *the standard workflow described above.*
 
 
 
