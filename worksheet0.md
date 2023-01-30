@@ -22,12 +22,26 @@ Skim this article https://www.markdownguide.org/basic-syntax/ to familiarize you
 ## Review
 1. What is your favorite CS topic you've learned so far?
 
+    Answer: python programming
+
 ## Exploration
 2. What is the most difficult CS topic you've learned so far?
+    
+    Answer: algorithms
 
 ## Challenge
 3. What do you most look forward to learning this semester?
 
+    Answer: get well prepared for CS 300 level courses.
+
+
 4. What tools and workflow are you going to use to do your projects and assignments for this class?
+
+    ###Tools: github, github desktop, intellij, markdown, chatGPT, etc...
+
+    workflow: the standard workflow described above.
+
+
+
 5. For #4 above, add some formatting styles in markdown for practice. For example: You can try bullet points, tables, heading sizes
 6. Find an image on the internet and embed it into this markdown file using a reasonable size that fits on the page. Add a link to the image so that it is clickable and goes to any website of your choice.
