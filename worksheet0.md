@@ -45,3 +45,5 @@ Skim this article https://www.markdownguide.org/basic-syntax/ to familiarize you
 
 5. For #4 above, add some formatting styles in markdown for practice. For example: You can try bullet points, tables, heading sizes
 6. Find an image on the internet and embed it into this markdown file using a reasonable size that fits on the page. Add a link to the image so that it is clickable and goes to any website of your choice.
+  ![img.png](img.png)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FOccidental_College&psig=AOvVaw2E1lv1FE0A5OhdpymEUqnK&ust=1675147989799000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNi_v9Pa7vwCFQAAAAAdAAAAABAE
